@@ -1,0 +1,54 @@
+una_pulgada = 2.54 # cm
+
+# convertir 4 km a m 
+'''
+4 km * 1000 = 4000 m
+
+'''
+
+# convertir 20 m a cm
+'''
+20 m * 1000 = 2000
+
+'''
+
+# convertir 30 pulgadas a pies 
+'''
+30 pulgadas * 0.083 = 2.5
+
+'''
+
+# convertir 40 pulgadas a cm 
+'''
+40 pulgadas * 2.54 = 101.6
+
+
+'''
+
+
+'''
+# expresar las medidas en pulgadas 
+
+ancho = 20 / una_pulgada
+alto = 5 / una_pulgada
+largo = 30 / una_pulgada
+
+ancho = 7.874 pulgadas
+alto = 1.968 pulgadas
+largo = 11.811 pulgadas
+
+respuesta : A
+
+'''
+print(7/16)
+
+
+
+
+
+
+
+
+
+
+
